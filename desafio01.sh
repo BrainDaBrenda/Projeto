@@ -20,3 +20,4 @@ else
 	 echo 'Um dia você vai gostar'
 	fi
 fi
+#Carinho por esse aqui s2
